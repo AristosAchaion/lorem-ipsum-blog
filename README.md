@@ -1,1 +1,1 @@
-This is a blog all about different choices for Lorem Ipsum built using [Learn Next.js](https://nextjs.org/learn).
+This is a blog all about different choices for Lorem Ipsum built using [Next.js](https://nextjs.org/learn).
